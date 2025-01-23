@@ -20,7 +20,7 @@ Discount Strategies: Introduce discounts or promotional offers on low-performing
 ---
 ## Tools & library -
 
-<img src="https://github.com/SarthakUdavant/Coffee-Dashboard/blob/main/Excel.jpg" alt="logo" width="200" height="100"/>
+<img src="https://github.com/SarthakUdavant/Coffee-Dashboard/blob/main/Excel.jpg" alt="logo" width="300" height="200"/>
 
 
 # Data Story -
