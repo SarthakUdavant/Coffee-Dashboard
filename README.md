@@ -29,6 +29,6 @@ Discount Strategies: Introduce discounts or promotional offers on low-performing
 
 # Screenshot -
 
-<img src="https://github.com/gokuljujgar07/Coffee_Sales_Dashboard/blob/main/Coffee_Sales_Analysis.png?raw=true" alt="myql-logo" width="1000" height="500"/>
+<img src="https://github.com/SarthakUdavant/Coffee-Dashboard/blob/main/Coffee%20Sales%20Dashboard.png" alt="myql-logo" width="1000" height="500"/>
 
-          (https://github.com/gokuljujgar07/Coffee_Sales_Dashboard/blob/main/Coffee_Sales_Analysis.png?raw=true) &nbsp;9----------------------
+          (https://github.com/SarthakUdavant/Coffee-Dashboard/blob/main/Coffee%20Sales%20Dashboard.png) &nbsp;9----------------------
