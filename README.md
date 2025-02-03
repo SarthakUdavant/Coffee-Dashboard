@@ -1,13 +1,11 @@
-<img src="https://github.com/SarthakUdavant/Coffee-Dashboard/blob/main/istockphoto-1349239413-612x612.jpg" alt="logo" width="300" height="200"/>
-
-
-
-
 # Coffee-Sales-Dashboard
 
 This dashboard presents insights to the regional manager of a coffee chain with three stores. The goal is to provide actionable insights to optimize operations across the stores.
-
 ---
+
+
+<img src="https://github.com/SarthakUdavant/Coffee-Dashboard/blob/main/istockphoto-1349239413-612x612.jpg" alt="logo" width="300" height="200"/>
+
 
 ## Key Highlights:
 Revenue Growth: Revenue has shown a consistent upward trend, reflecting positive business growth. Busiest Days: Mondays, Thursdays, and Fridays experience the highest footfall, aligning with the workweek trend when people are energized and prefer coffee breaks. Busiest Hours: Morning hours are the peak times, as customers frequent the coffee shops on their way to work.
