@@ -1,4 +1,4 @@
-<img src="https://github.com/SarthakUdavant/Coffee-Dashboard/blob/main/Excel.jpg" alt="logo" width="300" height="200"/>
+<img src="https://github.com/SarthakUdavant/Coffee-Dashboard/blob/main/istockphoto-1349239413-612x612.jpg" alt="logo" width="300" height="200"/>
 
 
 
